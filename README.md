@@ -1,6 +1,6 @@
-# Workshop for Tunis R User Group June 19, 2023
-
-## Bioinformatics analysis using Chatlize and ChatGPT
+# Bioinformatics analysis using Chatlize and ChatGPT
+## Workshop for Tunis R User Group June 19, 2023   
+## 10-12am CDT via Zoom
 
 ## Getting Ready:
 1. Web browser (ChatGPT, Google Bard, Bing Chat)
@@ -8,9 +8,13 @@
 3. RStudio (locally install or in the cloud [https://Posit.cloud](https://Posit.cloud) )
 4. R packages:
 ```
+install.packages("tidyverse")
+
 if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 BiocManager::install(version = "3.17")
+
+BiocManager::install("DESeq2")
 ```
 
 ## Links:
