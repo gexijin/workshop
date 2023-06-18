@@ -1,6 +1,6 @@
 # Bioinformatics analysis using Chatlize and ChatGPT
 ## Workshop for Tunis R User Group June 19, 2023   
-## 10-12am CDT via Zoom
+10-12am CDT via Zoom
 
 ## Getting Ready:
 1. Web browser (ChatGPT, Google Bard, Bing Chat)
@@ -19,6 +19,7 @@ BiocManager::install("DESeq2")
 
 ## Links:
 1. Live Stream: [https://www.twitch.tv/gexijin/](https://www.twitch.tv/gexijin/)
-2. Sign up [here](https://tinyurl.com/2nc2fxed )
+2. Sign up [here](https://tinyurl.com/2nc2fxed ) to obtain Zoom link
 4. [RTutor.ai](https://RTutor.ai)
 5. [Chatlize.ai](https://Chatlize.ai)
+6. [ChatGPT](https://chat.openai.com)
