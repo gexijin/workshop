@@ -16,6 +16,17 @@ BiocManager::install(version = "3.17")
 
 BiocManager::install("DESeq2")
 ```
+## Plan
+1. Demos: RTutor and Chatlize
+2. How ChatGPT works
+3. Guidelines for coding with ChatGPT
+4. Activities
+   - Game
+   - Heatmap
+   - PCA
+   - Shiny
+   - DESeq2
+
 
 ## Links:
 1. Live Stream: [https://www.twitch.tv/gexijin/](https://www.twitch.tv/gexijin/)
@@ -23,3 +34,4 @@ BiocManager::install("DESeq2")
 4. [RTutor.ai](https://RTutor.ai)
 5. [Chatlize.ai](https://Chatlize.ai)
 6. [ChatGPT](https://chat.openai.com)
+7. [DESeq2 using Chatlize](https://htmlpreview.github.io/?https://raw.githubusercontent.com/gexijin/RTutor/main/vignettes/Example_report.html)
