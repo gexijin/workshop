@@ -1,6 +1,6 @@
 # Bioinformatics analysis using Chatlize and ChatGPT
 ## Workshop for Tunis R User Group June 19, 2023   
-10-12am CDT via [Zoom](https://tinyurl.com/2nc2fxed). Live stream on [Twitch](https://www.twitch.tv/gexijin/) 
+10-12am CDT 
 
 ## Prerequisite 
 1. Web browser (ChatGPT, Google Bard, Bing Chat)
